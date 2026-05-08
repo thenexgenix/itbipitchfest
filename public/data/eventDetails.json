@@ -1,0 +1,83 @@
+{
+  "id": "65f2a91b8c4d9f1a7b02",
+  "hero": {
+    "title": "Aspire to Innovate",
+    "subtitle": "Preparing Students for Leadership in Technology through Digital Skills, Real-World Internships, and Innovation",
+    "date": "2025-12-31",
+    "time": "20:00",
+    "timezone": "Asia/Dhaka",
+    "mode": "Online (Zoom Live Session)",
+    "duration": "90 Minutes",
+    "ctaText": "Register Now",
+    "ctaLink": "https://forms.gle/NesGLWSdFCppGGSY8"
+  },
+
+  "about": {
+    "description": [
+      "This webinar is designed to inspire and guide tech-enthusiastic students by showcasing how modern technology—especially Digital skills—can be designed, developed, and applied with a strong human-centric approach.",
+      "Through real internship experiences, skill journeys, and industry insights, participants will gain clarity on building meaningful tech careers."
+    ],
+    "organizedBy": "Aspire Internship Program"
+  },
+
+  "specialGuest": {
+    "name": "Mr. Prashanta Dey",
+    "roles": [
+      "Program Director, Aspire Internship Program",
+      "CEO, NexGenix"
+    ],
+    "description": "Keynote insight on innovation, internships, and building future-ready tech professionals",
+    "image": "/assets/guest.png"
+  },
+  "speakers": {
+    "speakers": [
+        {
+        "name": "Farhanaz Kamrun",
+        "role": "Dept. Of Development, AI Research (NexGenix)",
+        "desc": "AI research fundamentals, responsible AI development, and real-world applications from an intern's perspective",
+        "img": "/assets/Farhanaz.png"
+        },
+        {
+        "name": "Jannatul Mawa",
+        "role": "Dept. Of Development, AI Research, Team Co-Lead (NexGenix)",
+        "desc": "Backend development, AI integration, and building scalable systems through internship experience",
+        "img": "/assets/Mawa.png"
+        },
+        {
+        "name": "Raian Tasnim Saoda",
+        "role": "Dept. Of Development, Team Co-Lead (NexGenix)",
+        "desc": "User-focused web development, frontend thinking, and transforming ideas into usable products",
+        "img": "/assets/Raian.png"
+        },
+        {
+        "name": "Md. Faisal Ahmed",
+        "role": "Dept. Of Development, Team Co-Lead (NexGenix)",
+        "desc": "Full-stack development using the MERN stack and preparing for industry-level projects through internships",
+        "img": "/assets/Faisal.png"
+        }
+    ],
+    "host": {
+        "name": "Lamya Alif",
+        "img": "/assets/Alif.png"
+    }
+    },
+
+  "keyDiscussionPoints": [
+    {
+      "title": "Importance of Digital Skills",
+      "desc": "Understanding the crucial role of digital skills in the modern tech industry"
+    },
+    {
+      "title": "Human-Centric Technology",
+      "desc": "Designing technology and AI with a strong focus on human needs and ethics"
+    },
+    {
+      "title": "Beyond Textbooks",
+      "desc": "Learning through real-world internship experiences and practical applications"
+    }
+  ],
+
+  "registration": {
+    "note": "Limited spots available. Register early to confirm your participation."
+  }
+}

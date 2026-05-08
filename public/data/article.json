@@ -1,0 +1,174 @@
+[
+  {
+    "id": 1,
+    "image": "/assets/articleImage.png",
+    "imageTitle": "Towards a Better Learning Experience: Aspire Internship Program’s Vision for Future!!",
+    "category": "Career Development",
+    "title": "Building Professional Skills: A Guide for Aspiring Interns",
+    "excerpt": "Developing professional skills is crucial for success in today's competitive job market. Learn about the essential skills every intern should master.",
+    "author": "Prashanta Dey",
+    "date": "January 5, 2026",
+    "readTime": "7 min read",
+    "content": [
+      {
+        "type": "introduction",
+        "heading": "Introduction",
+        "text": "Professional skills play a vital role in shaping an intern’s career. Internships offer hands-on opportunities to develop workplace-ready capabilities."
+      },
+      {
+        "type": "section",
+        "heading": "Understanding Professional Skills",
+        "text": "These skills include communication, teamwork, adaptability, and leadership. They help interns integrate effectively into professional environments."
+      },
+      {
+        "type": "key_takeaways",
+        "heading": "Key Takeaways",
+        "points": [
+          "Communication builds trust and clarity",
+          "Time management increases productivity",
+          "Adaptability improves problem-solving",
+          "Learning mindset drives growth"
+        ]
+      },
+      {
+        "type": "section",
+        "heading": "Applying Skills in the Workplace",
+        "text": "Interns should apply their skills through collaboration, feedback, and project involvement to gain real-world confidence."
+      },
+      {
+        "type": "conclusion",
+        "heading": "Conclusion",
+        "text": "Strong professional skills prepare interns for long-term success and smoother career transitions."
+      }
+    ]
+  },
+  {
+    "id": 2,
+    "image": "/assets/articleImage.png",
+    "imageTitle": "The Role of Mentorship in Internship Programs",
+    "category": "Career Growth",
+    "title": "Why Mentorship Matters During Internships",
+    "excerpt": "Mentorship helps interns gain clarity, confidence, and direction throughout their professional journey.",
+    "author": "Aspire Team",
+    "date": "January 12, 2026",
+    "readTime": "6 min read",
+    "content": [
+      {
+        "type": "introduction",
+        "heading": "Introduction",
+        "text": "Mentorship is a cornerstone of successful internship programs. It bridges the gap between theory and practice."
+      },
+      {
+        "type": "section",
+        "heading": "Benefits of Mentorship",
+        "text": "Mentors guide interns by sharing experience, providing feedback, and supporting professional development."
+      },
+      {
+        "type": "key_takeaways",
+        "heading": "Key Takeaways",
+        "points": [
+          "Mentors accelerate learning",
+          "Feedback improves performance",
+          "Guidance builds confidence",
+          "Career advice adds long-term value"
+        ]
+      },
+      {
+        "type": "section",
+        "heading": "Building Mentor Relationships",
+        "text": "Interns should actively communicate, ask questions, and show initiative to benefit fully from mentorship."
+      },
+      {
+        "type": "conclusion",
+        "heading": "Conclusion",
+        "text": "Mentorship transforms internships into meaningful career-building experiences."
+      }
+    ]
+  },
+  {
+    "id": 3,
+    "image": "/assets/articleImage.png",
+    "imageTitle": "Adapting to Modern Workplace Culture",
+    "category": "Workplace Skills",
+    "title": "How Interns Can Thrive in Modern Work Environments",
+    "excerpt": "Understanding workplace culture helps interns collaborate better and grow professionally.",
+    "author": "Career Team",
+    "date": "January 18, 2026",
+    "readTime": "5 min read",
+    "content": [
+      {
+        "type": "introduction",
+        "heading": "Introduction",
+        "text": "Modern workplaces emphasize flexibility, collaboration, and innovation. Interns must adapt quickly to succeed."
+      },
+      {
+        "type": "section",
+        "heading": "Understanding Workplace Culture",
+        "text": "Company values, communication styles, and team dynamics define workplace culture."
+      },
+      {
+        "type": "key_takeaways",
+        "heading": "Key Takeaways",
+        "points": [
+          "Respect workplace norms",
+          "Communicate openly",
+          "Embrace teamwork",
+          "Stay adaptable"
+        ]
+      },
+      {
+        "type": "section",
+        "heading": "Navigating Professional Expectations",
+        "text": "Professional behavior, punctuality, and accountability help interns stand out positively."
+      },
+      {
+        "type": "conclusion",
+        "heading": "Conclusion",
+        "text": "Adapting to workplace culture enables interns to integrate smoothly and grow faster."
+      }
+    ]
+  },
+  {
+    "id": 4,
+    "image": "/assets/articleImage.png",
+    "imageTitle": "From Intern to Professional",
+    "category": "Career Planning",
+    "title": "Turning Your Internship into a Career Opportunity",
+    "excerpt": "Internships can become full-time roles when approached strategically.",
+    "author": "Aspire Career Desk",
+    "date": "January 25, 2026",
+    "readTime": "8 min read",
+    "content": [
+      {
+        "type": "introduction",
+        "heading": "Introduction",
+        "text": "Internships provide a platform to showcase skills and dedication, opening doors to long-term opportunities."
+      },
+      {
+        "type": "section",
+        "heading": "Making a Strong Impression",
+        "text": "Consistent performance, initiative, and professionalism help interns stand out."
+      },
+      {
+        "type": "key_takeaways",
+        "heading": "Key Takeaways",
+        "points": [
+          "Take ownership of tasks",
+          "Seek feedback regularly",
+          "Build strong relationships",
+          "Demonstrate reliability"
+        ]
+      },
+      {
+        "type": "section",
+        "heading": "Preparing for Full-Time Roles",
+        "text": "Interns should align their work with company goals and express interest in long-term roles."
+      },
+      {
+        "type": "conclusion",
+        "heading": "Conclusion",
+        "text": "With the right mindset, internships can evolve into rewarding professional careers."
+      }
+    ]
+  }
+]

@@ -1,0 +1,50 @@
+{
+  "events": {
+    "upcoming": [
+      {
+        "id": "iti-2026-itbi-cuet",
+        "title": "FROM IDEA TO INCUBATION ITBI Student Startup Pitch Fest",
+        "status": "upcoming",
+        "bannerImage": "/events/innovation-within.png",
+        "date": "5th May, 2026",
+        "mode": "On-site | Auditorium, ITBI, CUET",
+        "detailsPath": "/program/events/innovation-workshop",
+        "tags": [
+          "Startup",
+          "Soft Skills",
+          "Industry Exposure",
+          "Networking"
+        ]
+      }
+    ],
+    "past": [
+      {
+        "id": "iow-2026-itbi-cuet",
+        "title": "Industry-Oriented Skills & Innovation Workshop",
+        "status": "completed",
+        "bannerImage": "/events/innovation-workshop-2026.png",
+        "date": "17 February, 2026",
+        "mode": "Onsite Workshop",
+        "detailsPath": "/program/events/innovation-skill",
+        "tags": [
+          "Mobile App Development",
+          "Python & Django",
+          "Server Deployment",
+          "Soft Skills",
+          "Industry Exposure",
+          "Networking"
+        ]
+      },
+      {
+        "id": "a92f81b73c5e4d90ab21",
+        "title": "Aspire Talks 2025: Innovation, Impact & Personal Growth",
+        "status": "completed",
+        "bannerImage": "/events/aspire-talks-2025.jpeg",
+        "date": "31 December, 2025",
+        "mode": "Online Webinar",
+        "detailsPath": "/program/events/a92f81b73c5e4d90ab21/details",
+        "tags": ["Internship", "Career Development", "Future Plans"]
+      }
+    ]
+  }
+}

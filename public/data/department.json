@@ -1,0 +1,846 @@
+[
+{
+  "id": 1,
+  "department_name": "Design & Creative Department",
+  "total_department_vacancies": 7,
+
+  "category": "Design",
+  "color": "#9810FA",
+  "gradient": "linear-gradient(90deg, #9810FA 0%, #E60076 100%)",
+  "icon": "FaPalette",
+
+  "positions": [
+    {
+      "job_title": "Graphic Designer",
+      "on_site_count": 1,
+      "remote_count": 2,
+      "total_count": 3,
+
+      "details": {
+        "onsite": {
+          "mode": "On-Site / Full-Time",
+          "officeLocation": "ITBI, CUET",
+          "employmentType": "Full Time (On-Site)",
+          "officeTime": "10:00 AM – 4:00 PM",
+          "address": "IT Business Incubator, CUET, Chittagong, Bangladesh",
+          "contact": {
+            "phone": "01973-227349",
+            "email": "aspireinternshiprogram.pda@gmail.com"
+          }
+        },
+        "remote": {
+          "mode": "Remote / Part-Time",
+          "workBase": "Work From Home",
+          "employmentType": "Part Time (Remote)",
+          "officeTime": "Flexible (To be discussed)",
+          "contact": {
+            "phone": "01973-227349",
+            "email": "aspireinternshiprogram.pda@gmail.com"
+          }
+        }
+      }
+    },
+
+    {
+      "job_title": "UI/UX Designer",
+      "on_site_count": 1,
+      "remote_count": 2,
+      "total_count": 3,
+
+      "details": {
+        "onsite": {
+          "mode": "On-Site / Full-Time",
+          "officeLocation": "ITBI, CUET",
+          "employmentType": "Full Time (On-Site)",
+          "officeTime": "10:00 AM – 4:00 PM",
+          "address": "IT Business Incubator, CUET, Chittagong, Bangladesh",
+          "contact": {
+            "phone": "01973-227349",
+            "email": "aspireinternshiprogram.pda@gmail.com"
+          }
+        },
+        "remote": {
+          "mode": "Remote / Part-Time",
+          "workBase": "Work From Home",
+          "employmentType": "Part Time (Remote)",
+          "officeTime": "Flexible (To be discussed)",
+          "contact": {
+            "phone": "01973-227349",
+            "email": "aspireinternshiprogram.pda@gmail.com"
+          }
+        }
+      }
+    },
+
+    {
+      "job_title": "Multimedia & Video Production",
+      "on_site_count": 1,
+      "remote_count": 0,
+      "total_count": 1,
+
+      "details": {
+        "onsite": {
+          "mode": "On-Site / Full-Time",
+          "officeLocation": "ITBI, CUET",
+          "employmentType": "Full Time (On-Site)",
+          "officeTime": "10:00 AM – 4:00 PM",
+          "address": "IT Business Incubator, CUET, Chittagong, Bangladesh",
+          "contact": {
+            "phone": "01973-227349",
+            "email": "aspireinternshiprogram.pda@gmail.com"
+          }
+        }
+      }
+    }
+  ],
+
+  "common": {
+    "about": "Aspire Internship Program is a learning-focused platform that empowers students and early-career professionals with practical skills and real-world experience.",
+
+    "requirements": [
+      "Only fresh graduates are eligible to apply",
+      "Strong creativity and a keen eye for design",
+      "Proficiency in graphic design tools (Adobe Photoshop, Illustrator, Canva, Figma)",
+      "Ability to work collaboratively with team members and meet deadlines",
+      "Punctual, responsible, and deadline-oriented",
+      "Must be available to join the office 6 days a week"
+    ],
+
+    "nature": [
+      "On-Site / Remote (Based on role)",
+      "Hands-on practical work",
+      "Supervised and structured internship program"
+    ],
+
+    "benefits": [
+      "Practical experience in the relevant field",
+      "Exposure to real projects and workflows",
+      "Continuous mentorship from experienced professionals",
+      "Internship certificate upon successful completion",
+      "Opportunity to develop professional work habits"
+    ],
+
+    "remuneration": "This internship is unpaid with performance-based bonuses. Further details will be discussed during the selection process."
+  }
+}
+
+,
+{
+  "id": 2,
+  "department_name": "Development Department",
+  "total_department_vacancies": 14,
+
+  "category": "Development",
+  "color": "#155DFC",
+  "gradient": "linear-gradient(90deg, #155DFC 0%, #0092B8 100%)",
+  "icon": "FaCode",
+
+  "positions": [
+    {
+      "job_title": "Frontend Development",
+      "on_site_count": 1,
+      "remote_count": 3,
+      "total_count": 4,
+
+      "details": {
+        "onsite": {
+          "mode": "On-Site / Full-Time",
+          "officeLocation": "ITBI, CUET",
+          "employmentType": "Full Time (On-Site)",
+          "officeTime": "10:00 AM – 4:00 PM",
+          "address": "IT Business Incubator, CUET, Chittagong, Bangladesh",
+          "contact": {
+            "phone": "01973-227349",
+            "email": "aspireinternshiprogram.pda@gmail.com"
+          }
+        },
+        "remote": {
+          "mode": "Remote / Part-Time",
+          "workBase": "Work From Home",
+          "employmentType": "Part Time (Remote)",
+          "officeTime": "Flexible (To be discussed)",
+          "contact": {
+            "phone": "01973-227349",
+            "email": "aspireinternshiprogram.pda@gmail.com"
+          }
+        }
+      }
+    },
+
+    {
+      "job_title": "Backend Development",
+      "on_site_count": 1,
+      "remote_count": 3,
+      "total_count": 4,
+
+      "details": {
+        "onsite": {
+          "mode": "On-Site / Full-Time",
+          "officeLocation": "ITBI, CUET",
+          "employmentType": "Full Time (On-Site)",
+          "officeTime": "10:00 AM – 4:00 PM",
+          "address": "IT Business Incubator, CUET, Chittagong, Bangladesh",
+          "contact": {
+            "phone": "01973-227349",
+            "email": "aspireinternshiprogram.pda@gmail.com"
+          }
+        },
+        "remote": {
+          "mode": "Remote / Part-Time",
+          "workBase": "Work From Home",
+          "employmentType": "Part Time (Remote)",
+          "contact": {
+            "phone": "01973-227349",
+            "email": "aspireinternshiprogram.pda@gmail.com"
+          }
+        }
+      }
+    },
+
+    {
+      "job_title": "Full Stack Development",
+      "on_site_count": 1,
+      "remote_count": 3,
+      "total_count": 4,
+
+      "details": {
+        "onsite": {
+          "mode": "On-Site / Full-Time",
+          "officeLocation": "ITBI, CUET",
+          "employmentType": "Full Time (On-Site)",
+          "officeTime": "10:00 AM – 4:00 PM",
+          "address": "IT Business Incubator, CUET, Chittagong, Bangladesh",
+          "contact": {
+            "phone": "01973-227349",
+            "email": "aspireinternshiprogram.pda@gmail.com"
+          }
+        },
+        "remote": {
+          "mode": "Remote / Part-Time",
+          "workBase": "Work From Home",
+          "employmentType": "Part Time (Remote)",
+          "contact": {
+            "phone": "01973-227349",
+            "email": "aspireinternshiprogram.pda@gmail.com"
+          }
+        }
+      }
+    },
+
+    {
+      "job_title": "Web Developer",
+      "on_site_count": 1,
+      "remote_count": 3,
+      "total_count": 4,
+
+      "details": {
+        "onsite": {
+          "mode": "On-Site / Full-Time",
+          "officeLocation": "ITBI, CUET",
+          "employmentType": "Full Time (On-Site)",
+          "officeTime": "10:00 AM – 4:00 PM",
+          "address": "IT Business Incubator, CUET, Chittagong, Bangladesh",
+          "contact": {
+            "phone": "01973-227349",
+            "email": "aspireinternshiprogram.pda@gmail.com"
+          }
+        },
+        "remote": {
+          "mode": "Remote / Part-Time",
+          "workBase": "Work From Home",
+          "employmentType": "Part Time (Remote)",
+          "contact": {
+            "phone": "01973-227349",
+            "email": "aspireinternshiprogram.pda@gmail.com"
+          }
+        }
+      }
+    },
+
+    {
+      "job_title": "MERN Stack Developer",
+      "on_site_count": 1,
+      "remote_count": 3,
+      "total_count": 4,
+
+      "details": {
+        "onsite": {
+          "mode": "On-Site / Full-Time",
+          "officeLocation": "ITBI, CUET",
+          "employmentType": "Full Time (On-Site)",
+          "officeTime": "10:00 AM – 4:00 PM",
+          "address": "IT Business Incubator, CUET, Chittagong, Bangladesh",
+          "contact": {
+            "phone": "01973-227349",
+            "email": "aspireinternshiprogram.pda@gmail.com"
+          }
+        },
+        "remote": {
+          "mode": "Remote / Part-Time",
+          "workBase": "Work From Home",
+          "employmentType": "Part Time (Remote)",
+          "contact": {
+            "phone": "01973-227349",
+            "email": "aspireinternshiprogram.pda@gmail.com"
+          }
+        }
+      }
+    }
+  ],
+
+  "common": {
+    "about": "Aspire Internship Program is a learning-focused platform that empowers students and early-career professionals with practical skills and real-world experience. This internship emphasizes structured learning, teamwork, and hands-on software development in a professional environment.",
+
+    "requirements": [
+      "Only fresh graduates are eligible to apply",
+      "Basic understanding of programming concepts",
+      "Familiarity with web technologies and development tools",
+      "Ability to learn quickly and adapt to new technologies",
+      "Punctual, responsible, and deadline-oriented",
+      "Ability to collaborate in a professional team environment"
+    ],
+
+    "nature": [
+      "On-Site / Remote (Based on role)",
+      "Hands-on development tasks",
+      "Supervised and structured internship program"
+    ],
+
+    "benefits": [
+      "Real-world software development experience",
+      "Exposure to live projects and systems",
+      "Continuous mentorship from experienced developers",
+      "Internship certificate upon successful completion",
+      "Opportunity to build a professional portfolio"
+    ],
+
+    "remuneration": "This internship is unpaid with performance-based bonuses. Further details will be discussed during the selection process."
+  }
+}
+,
+  {
+  "id": 3,
+  "department_name": "Human Resources & Operations Department",
+  "total_department_vacancies": 6,
+
+  "category": "Human Resources",
+  "color": "#00A63E",
+  "gradient": "linear-gradient(90deg, #00A63E 0%, #009966 100%)",
+  "icon": "FaUsers",
+
+  "positions": [
+    {
+      "job_title": "Communication & Coordination",
+      "on_site_count": 1,
+      "remote_count": 2,
+      "total_count": 3,
+
+      "details": {
+        "onsite": {
+          "mode": "On-Site / Full-Time",
+          "officeLocation": "ITBI, CUET",
+          "employmentType": "Full Time (On-Site)",
+          "officeTime": "10:00 AM – 4:00 PM",
+          "address": "IT Business Incubator, CUET, Chittagong, Bangladesh",
+          "contact": {
+            "phone": "01973-227349",
+            "email": "aspireinternshiprogram.pda@gmail.com"
+          }
+        },
+        "remote": {
+          "mode": "Remote / Part-Time",
+          "workBase": "Work From Home",
+          "employmentType": "Part Time (Remote)",
+          "officeTime": "Flexible (To be discussed)",
+          "contact": {
+            "phone": "01973-227349",
+            "email": "aspireinternshiprogram.pda@gmail.com"
+          }
+        }
+      }
+    },
+
+    {
+      "job_title": "HR Intern (B2B Talent & Resource Sharing)",
+      "on_site_count": 1,
+      "remote_count": 2,
+      "total_count": 3,
+
+      "details": {
+        "onsite": {
+          "mode": "On-Site / Full-Time",
+          "officeLocation": "ITBI, CUET",
+          "employmentType": "Full Time (On-Site)",
+          "officeTime": "10:00 AM – 4:00 PM",
+          "address": "IT Business Incubator, CUET, Chittagong, Bangladesh",
+          "contact": {
+            "phone": "01973-227349",
+            "email": "aspireinternshiprogram.pda@gmail.com"
+          }
+        },
+        "remote": {
+          "mode": "Remote / Part-Time",
+          "workBase": "Work From Home",
+          "employmentType": "Part Time (Remote)",
+          "officeTime": "Flexible (To be discussed)",
+          "contact": {
+            "phone": "01973-227349",
+            "email": "aspireinternshiprogram.pda@gmail.com"
+          }
+        }
+      }
+    }
+  ],
+
+  "common": {
+    "about": "Aspire Internship Program is a learning-focused platform that empowers students and early-career professionals with practical skills and real-world experience. This department focuses on professional communication, coordination, HR operations, and structured organizational support.",
+
+    "requirements": [
+      "Only fresh graduates are eligible to apply",
+      "Strong verbal and written communication skills",
+      "Ability to coordinate tasks effectively with teams and supervisors",
+      "Basic understanding of professional communication and reporting",
+      "Punctual, responsible, and deadline-oriented",
+      "Ability to work collaboratively in a professional environment"
+    ],
+
+    "nature": [
+      "On-Site / Remote (Based on role)",
+      "Communication, coordination, and HR operational support",
+      "Supervised and structured internship program"
+    ],
+
+    "benefits": [
+      "Hands-on experience in professional communication and HR operations",
+      "Real-world organizational and workplace exposure",
+      "Continuous guidance and mentorship",
+      "Internship certificate upon successful completion",
+      "Opportunity to develop interpersonal and organizational skills"
+    ],
+
+    "remuneration": "This internship is unpaid with performance-based bonuses. Further details will be discussed during the selection process"
+  }
+}
+
+,
+ {
+  "id": 4,
+  "department_name": "Artificial Intelligence & Research Department",
+  "total_department_vacancies": 9,
+
+  "category": "AI & Research",
+  "color": "#9810FA",
+  "gradient": "linear-gradient(90deg, #9810FA 0%, #6E11B0 100%)",
+  "icon": "FaBrain",
+
+  "positions": [
+    {
+      "job_title": "AI Research",
+      "on_site_count": 1,
+      "remote_count": 2,
+      "total_count": 3,
+
+      "details": {
+        "onsite": {
+          "mode": "On-Site / Full-Time",
+          "officeLocation": "ITBI, CUET",
+          "employmentType": "Full Time (On-Site)",
+          "officeTime": "10:00 AM – 4:00 PM",
+          "address": "IT Business Incubator, CUET, Chittagong, Bangladesh",
+          "contact": {
+            "phone": "01973-227349",
+            "email": "aspireinternshiprogram.pda@gmail.com"
+          }
+        },
+        "remote": {
+          "mode": "Remote / Part-Time",
+          "workBase": "Work From Home",
+          "employmentType": "Part Time (Remote)",
+          "officeTime": "Flexible",
+          "contact": {
+            "phone": "01973-227349",
+            "email": "aspireinternshiprogram.pda@gmail.com"
+          }
+        }
+      }
+    },
+
+    {
+      "job_title": "Machine Learning Research",
+      "on_site_count": 1,
+      "remote_count": 2,
+      "total_count": 3,
+
+      "details": {
+        "onsite": {
+          "mode": "On-Site / Full-Time",
+          "officeLocation": "ITBI, CUET",
+          "employmentType": "Full Time (On-Site)",
+          "officeTime": "10:00 AM – 4:00 PM",
+          "address": "IT Business Incubator, CUET, Chittagong, Bangladesh",
+          "contact": {
+            "phone": "01973-227349",
+            "email": "aspireinternshiprogram.pda@gmail.com"
+          }
+        },
+        "remote": {
+          "mode": "Remote / Part-Time",
+          "workBase": "Work From Home",
+          "employmentType": "Part Time (Remote)",
+          "officeTime": "Flexible",
+          "contact": {
+            "phone": "01973-227349",
+            "email": "aspireinternshiprogram.pda@gmail.com"
+          }
+        }
+      }
+    },
+
+    {
+      "job_title": "AI & ML Research Trainee",
+      "on_site_count": 1,
+      "remote_count": 2,
+      "total_count": 3,
+
+      "details": {
+        "onsite": {
+          "mode": "On-Site / Full-Time",
+          "officeLocation": "ITBI, CUET",
+          "employmentType": "Full Time (On-Site)",
+          "officeTime": "10:00 AM – 4:00 PM",
+          "address": "IT Business Incubator, CUET, Chittagong, Bangladesh",
+          "contact": {
+            "phone": "01973-227349",
+            "email": "aspireinternshiprogram.pda@gmail.com"
+          }
+        },
+        "remote": {
+          "mode": "Remote / Part-Time",
+          "workBase": "Work From Home",
+          "employmentType": "Part Time (Remote)",
+          "officeTime": "Flexible",
+          "contact": {
+            "phone": "01973-227349",
+            "email": "aspireinternshiprogram.pda@gmail.com"
+          }
+        }
+      }
+    }
+  ],
+
+  "common": {
+    "about": "Aspire Internship Program provides a structured, mentorship-driven environment for aspiring AI and ML researchers. Interns gain real-world exposure to artificial intelligence, machine learning, experimentation, and research documentation.",
+
+    "requirements": [
+      "Only fresh graduates or entry-level candidates are eligible",
+      "Basic understanding of artificial intelligence and machine learning concepts",
+      "Familiarity with Python programming",
+      "Interest in research, experimentation, and documentation",
+      "Ability to follow structured guidance and meet deadlines",
+      "Strong willingness to learn and grow in research environments"
+    ],
+
+    "nature": [
+      "On-Site / Remote (Role-based)",
+      "Research and experimentation-focused internship",
+      "Structured, supervised learning environment"
+    ],
+
+    "benefits": [
+      "Hands-on AI and ML research experience",
+      "Exposure to real-world research methodologies",
+      "Continuous mentorship and feedback",
+      "Internship certificate upon successful completion",
+      "Opportunity to build research-oriented portfolio projects"
+    ],
+
+    "remuneration": "This internship is unpaid with performance-based bonuses. Further details will be discussed during the selection process."
+  }
+}
+
+,
+  {
+  "id": 5,
+  "department_name": "Mobile Application Development Department",
+  "total_department_vacancies": 9,
+
+  "category": "Mobile Development",
+  "color": "#155DFC",
+  "gradient": "linear-gradient(90deg, #155DFC 0%, #4F39F6 100%)",
+  "icon": "FaMobileAlt",
+
+  "positions": [
+    {
+      "job_title": "Mobile App Development",
+      "on_site_count": 1,
+      "remote_count": 2,
+      "total_count": 3,
+
+      "details": {
+        "onsite": {
+          "mode": "On-Site / Full-Time",
+          "officeLocation": "ITBI, CUET",
+          "employmentType": "Full Time (On-Site)",
+          "officeTime": "10:00 AM – 4:00 PM",
+          "address": "IT Business Incubator, CUET, Chittagong, Bangladesh",
+          "contact": {
+            "phone": "01973-227349",
+            "email": "aspireinternshiprogram.pda@gmail.com"
+          }
+        },
+        "remote": {
+          "mode": "Remote / Part-Time",
+          "workBase": "Work From Home",
+          "employmentType": "Part Time (Remote)",
+          "officeTime": "Flexible",
+          "contact": {
+            "phone": "01973-227349",
+            "email": "aspireinternshiprogram.pda@gmail.com"
+          }
+        }
+      }
+    },
+
+    {
+      "job_title": "Flutter Development",
+      "on_site_count": 1,
+      "remote_count": 2,
+      "total_count": 3,
+
+      "details": {
+        "onsite": {
+          "mode": "On-Site / Full-Time",
+          "officeLocation": "ITBI, CUET",
+          "employmentType": "Full Time (On-Site)",
+          "officeTime": "10:00 AM – 4:00 PM",
+          "address": "IT Business Incubator, CUET, Chittagong, Bangladesh",
+          "contact": {
+            "phone": "01973-227349",
+            "email": "aspireinternshiprogram.pda@gmail.com"
+          }
+        },
+        "remote": {
+          "mode": "Remote / Part-Time",
+          "workBase": "Work From Home",
+          "employmentType": "Part Time (Remote)",
+          "officeTime": "Flexible",
+          "contact": {
+            "phone": "01973-227349",
+            "email": "aspireinternshiprogram.pda@gmail.com"
+          }
+        }
+      }
+    },
+
+    {
+      "job_title": "Flutter & Django Development",
+      "on_site_count": 1,
+      "remote_count": 2,
+      "total_count": 3,
+
+      "details": {
+        "onsite": {
+          "mode": "On-Site / Full-Time",
+          "officeLocation": "ITBI, CUET",
+          "employmentType": "Full Time (On-Site)",
+          "officeTime": "10:00 AM – 4:00 PM",
+          "address": "IT Business Incubator, CUET, Chittagong, Bangladesh",
+          "contact": {
+            "phone": "01973-227349",
+            "email": "aspireinternshiprogram.pda@gmail.com"
+          }
+        },
+        "remote": {
+          "mode": "Remote / Part-Time",
+          "workBase": "Work From Home",
+          "employmentType": "Part Time (Remote)",
+          "officeTime": "Flexible",
+          "contact": {
+            "phone": "01973-227349",
+            "email": "aspireinternshiprogram.pda@gmail.com"
+          }
+        }
+      }
+    }
+  ],
+
+  "common": {
+    "about": "Aspire Internship Program empowers interns with hands-on mobile application development experience through structured learning, real-world projects, and continuous mentorship in a professional environment.",
+
+    "requirements": [
+      "Only fresh graduates or entry-level candidates are eligible",
+      "Knowledge of mobile app development (Android, iOS, Flutter, or React Native)",
+      "Strong programming and logical problem-solving skills",
+      "Ability to collaborate with team members and follow project guidelines",
+      "Responsible, punctual, and deadline-oriented"
+    ],
+
+    "nature": [
+      "On-Site / Remote (Role-based)",
+      "Hands-on mobile application development",
+      "Structured and supervised internship program"
+    ],
+
+    "benefits": [
+      "Real-world mobile app development experience",
+      "Exposure to professional development workflows",
+      "Continuous mentorship from experienced developers",
+      "Internship certificate upon successful completion",
+      "Opportunity to strengthen coding and teamwork skills"
+    ],
+
+    "remuneration": "This internship is unpaid with performance-based bonuses. Further details will be discussed during the selection process."
+  }
+}
+
+,
+{
+  "id": 6,
+  "department_name": "Marketing & Creative Department",
+  "total_department_vacancies": 5,
+
+  "category": "Marketing",
+  "color": "#E60076",
+  "gradient": "linear-gradient(90deg, #E60076 0%, #EC003F 100%)",
+  "icon": "FaBullhorn",
+
+  "positions": [
+    {
+      "job_title": "Social Media & Content Marketing",
+      "on_site_count": 5,
+      "remote_count": 0,
+      "total_count": 5,
+
+      "details": {
+        "onsite": {
+          "mode": "On-Site / Full-Time",
+          "officeLocation": "ITBI, CUET",
+          "employmentType": "Full Time (On-Site)",
+          "officeTime": "10:00 AM – 4:00 PM",
+          "address": "IT Business Incubator, CUET, Chittagong, Bangladesh",
+          "contact": {
+            "phone": "01973-227349",
+            "email": "aspireinternshiprogram.pda@gmail.com"
+          }
+        }
+      }
+    }
+  ],
+
+  "common": {
+    "about": "Aspire Internship Program is a learning-focused platform designed to empower students and early-career professionals with practical skills and real-world experience. This internship focuses on social media management, content creation, and digital marketing strategies in a professional environment.",
+
+    "requirements": [
+      "Only fresh graduates are eligible to apply",
+      "Strong verbal and written communication skills",
+      "Basic understanding of social media platforms and digital marketing trends",
+      "Creativity and attention to detail in content development",
+      "Ability to collaborate effectively with team members",
+      "Responsible, punctual, and deadline-oriented"
+    ],
+
+    "nature": [
+      "On-Site",
+      "Full-Time",
+      "Hands-on social media management and content marketing",
+      "Structured and supervised internship program"
+    ],
+
+    "benefits": [
+      "Practical exposure to social media campaigns and content creation",
+      "Opportunity to work on real marketing projects",
+      "Continuous guidance and mentorship",
+      "Internship certificate upon successful completion",
+      "Development of creativity and communication skills"
+    ],
+
+    "remuneration": "This internship is unpaid with performance-based bonuses. Further details will be discussed during the selection process."
+  }
+}
+
+,
+  {
+  "id": 7,
+  "department_name": "Business & Strategy Department",
+  "total_department_vacancies": 2,
+
+  "category": "Management",
+  "color": "#F54900",
+  "gradient": "linear-gradient(90deg, #F54900 0%, #E17100 100%)",
+  "icon": "FaBriefcase",
+
+  "positions": [
+    {
+      "job_title": "Project Management & Coordination",
+      "on_site_count": 1,
+      "remote_count": 0,
+      "total_count": 1,
+
+      "details": {
+        "onsite": {
+          "mode": "On-Site / Full-Time",
+          "officeLocation": "ITBI, CUET",
+          "employmentType": "Full Time (On-Site)",
+          "officeTime": "10:00 AM – 4:00 PM",
+          "address": "IT Business Incubator, CUET, Chittagong, Bangladesh",
+          "contact": {
+            "phone": "01973-227349",
+            "email": "aspireinternshiprogram.pda@gmail.com"
+          }
+        }
+      }
+    },
+    {
+      "job_title": "Strategic Planning & Operations Intern",
+      "on_site_count": 1,
+      "remote_count": 0,
+      "total_count": 1,
+
+      "details": {
+        "onsite": {
+          "mode": "On-Site / Full-Time",
+          "officeLocation": "ITBI, CUET",
+          "employmentType": "Full Time (On-Site)",
+          "officeTime": "10:00 AM – 4:00 PM",
+          "address": "IT Business Incubator, CUET, Chittagong, Bangladesh",
+          "contact": {
+            "phone": "01973-227349",
+            "email": "aspireinternshiprogram.pda@gmail.com"
+          }
+        }
+      }
+    }
+  ],
+
+  "common": {
+    "about": "Aspire Internship Program is a learning-focused platform that empowers students and early-career professionals with practical skills and real-world experience. This department focuses on project coordination, strategic planning, and operational support in a professional environment.",
+
+    "requirements": [
+      "Only fresh graduates are eligible to apply",
+      "Strong organizational, communication, and problem-solving skills",
+      "Basic understanding of project management, operations, or strategic planning",
+      "Ability to coordinate effectively with team members and supervisors",
+      "Responsible, punctual, and deadline-oriented",
+      "Must be available to join the office 6 days a week"
+    ],
+
+    "nature": [
+      "On-Site",
+      "Full-Time",
+      "Hands-on support in management, coordination, and operations",
+      "Structured and supervised internship program"
+    ],
+
+    "benefits": [
+      "Practical experience in project management and strategic operations",
+      "Exposure to real projects and professional workflows",
+      "Continuous mentorship and guidance",
+      "Internship certificate upon successful completion",
+      "Development of leadership and organizational skills"
+    ],
+
+    "remuneration": "This internship is unpaid with performance-based bonuses. Further details will be discussed during the selection process."
+  }
+}
+
+]

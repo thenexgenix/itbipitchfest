@@ -1,0 +1,44 @@
+[
+  {
+    "id": 1,
+    "name": "Azra Mokarrama Koshin",
+    "university": "American International University- Bangladesh",
+    "role": "Frontend Developer Intern",
+    "image": "/topIntern/koshin.png"
+  },
+  {
+    "id": 2,
+    "name": "Jannatul Nayeem",
+    "university": "International Islamic University Chittagong",
+    "role": "Flutter & Django Development Intern",
+    "image": "/topIntern/nayeem.png"
+  },
+  {
+    "id": 3,
+    "name": "Nazifa Fairuz Zuthi",
+    "university" :"Rajshahi University of Engineering and Technology",
+    "role": "Full Stack Developer & ML Intern",
+    "image": "/topIntern/zuthi.png"
+  },
+  {
+    "id": 4,
+    "name": "Khaled Ammar",
+    "university": "Premier University Chittagong",
+    "role": "UI/UX Designer Intern",
+    "image": "/topIntern/khaled.png"
+  },
+  {
+    "id": 5,
+    "name": "Md. Faisal Ahmed",
+    "university": "East Delta University",
+    "role": "Mern Stack Developer Intern",
+    "image": "/topIntern/faisal.png"
+  },
+  {
+    "id": 6,
+    "name": "A.S.M Arsad Ahamed Safone",
+    "university": "University of Science and Technology Chittagong (USTC)",
+    "role": "AI Research & Backend Development Intern",
+    "image": "/topIntern/safone.png"
+  }
+]

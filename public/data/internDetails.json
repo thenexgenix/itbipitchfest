@@ -1,0 +1,149 @@
+{
+  "id": 1,
+  "profile": {
+    "name": "Md. Faisal Ahmed",
+    "role": "MERN Stack Developer",
+    "institution": "East Delta University",
+    "avatar": "/images/faisal.png",
+    "socials": {
+      "email": "faisalahmed4417@gmail.com",
+      "phone": "+8801876141732",
+      "facebook": "#",
+      "linkedin": "#",
+      "github": "#",
+      "portfolio": "#"
+    }
+  },
+
+  "about": "MERN Stack Developer with hands-on industry experience in building scalable full-stack applications using React, Node.js, Express, MongoDB, and Next.js. Proven ability to lead development teams, deliver real-world projects, and collaborate effectively in fast-paced environments. Experienced in internships, production deployments, and technical knowledge sharing through webinars.",
+
+  "skills": {
+    "languages": ["JavaScript", "C", "C++"],
+    "frontend": [
+      "React.js",
+      "Next.js",
+      "Tailwind CSS",
+      "Responsive Web Design",
+      "Figma"
+    ],
+    "backend": [
+      "Node.js",
+      "Express.js",
+      "MongoDB",
+      "Firebase",
+      "REST API Integration"
+    ],
+    "tools": [
+      "Git",
+      "GitHub",
+      "Vercel",
+      "Netlify",
+      "Vite",
+      "React Router",
+      "Server Setup"
+    ]
+  },
+
+  "education": [
+    {
+      "title": "Bachelor of Science in Computer Science and Engineering",
+      "subtitle": "East Delta University",
+      "period": "2022 – Present",
+      "highlight": true
+    }
+  ],
+
+  "projects": [
+    {
+      "title": "Savorly – MERN Stack Recipe Web App",
+      "description": "Built a full-stack platform where users can view, add, edit, and manage personal recipes. Integrated user authentication, personalized dashboards, filtering, liking, and responsive design.",
+      "tags": [
+        "React",
+        "Tailwind CSS",
+        "Firebase",
+        "Express.js",
+        "MongoDB",
+        "Vite",
+        "Axios"
+      ]
+    },
+    {
+      "title": "PowerPlay – Athletic Event Booking Platform",
+      "description": "Created a platform for users to book, manage, and create athletic events. Implemented secure login, booking management, event editing, and responsive dashboard UX.",
+      "tags": [
+        "React",
+        "Tailwind CSS",
+        "Firebase Auth",
+        "Express.js",
+        "MongoDB",
+        "Vite"
+      ]
+    },
+    {
+      "title": "LectureLab – Online Learning & Resource Platform",
+      "description": "Built a role-based learning platform for students and teachers with secure authentication, content upload, and dynamic class management.",
+      "tags": [
+        "React",
+        "Firebase Auth",
+        "Express.js",
+        "MongoDB",
+        "JWT"
+      ]
+    }
+  ],
+
+  "experience": [
+    {
+      "organization": "NexGenix — IT Business Incubator, CUET",
+      "role": "MERN Stack Developer → Co-Lead, Development Team",
+      "type": "Internship",
+      "period": "Oct 2025 – Present",
+      "details": [
+        "Promoted to Co-Lead within the first month based on performance and leadership",
+        "Led and contributed to 7+ real-world full-stack projects",
+        "Designed scalable frontend components and RESTful APIs",
+        "Managed task distribution, code reviews, and GitHub collaboration",
+        "Handled deployment, environment setup, and production debugging",
+        "Speaker in an online webinar on industry-level MERN development"
+      ]
+    }
+  ],
+
+  "internship": {
+    "organization": "NexGenix — IT Business Incubator, CUET",
+    "role": "MERN Stack Developer Intern",
+    "start": "October 2025",
+    "end": "February 2026"
+  },
+
+  "languages": [
+    { "name": "English", "level": "Fluent" },
+    { "name": "Bangla", "level": "Native" },
+    { "name": "Hindi", "level": "Fluent" }
+  ],
+
+  "certifications": [
+    {
+      "title": "Internship Completion Certificate",
+      "meta": "NexGenix — IT Business Incubator, CUET"
+    },
+    {
+      "title": "Aspire Leaders Program Graduate",
+      "meta": "Aspire Institute (Harvard-founded) · Aug 2025"
+    }
+  ],
+
+  "extracurricular": [
+    {
+      "title": "Central Member",
+      "organization": "Private University Student Alliance of Bangladesh (PUSAB)",
+      "description": "Advocate for student rights and collaborate on national higher education initiatives"
+    },
+    {
+      "title": "Volunteer",
+      "organization": "EDU Engineering Day",
+      "period": "February 2025",
+      "description": "Assisted in event organization and student engagement"
+    }
+  ]
+}
