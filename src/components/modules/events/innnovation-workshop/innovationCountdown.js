@@ -33,8 +33,10 @@ const TimeBox = ({ value, label }) => {
 };
 
 const InnovationCountdown = () => {
+  const [isMounted, setIsMounted] = useState(false);
+
   const calculateTimeLeft = () => {
-    const targetDate = new Date("2026-05-15T09:30:00");
+    const targetDate = new Date("2026-06-19T09:30:00");
     const now = new Date();
     const difference = targetDate - now;
 
@@ -53,12 +55,18 @@ const InnovationCountdown = () => {
   const [timeLeft, setTimeLeft] = useState(calculateTimeLeft());
 
   useEffect(() => {
+    setIsMounted(true);
+
     const timer = setInterval(() => {
       setTimeLeft(calculateTimeLeft());
     }, 1000);
 
     return () => clearInterval(timer);
   }, []);
+
+  if (!isMounted) {
+    return null;
+  }
 
   return (
     <section className="w-full flex justify-center items-center pt-16 bg-[#32094C]">

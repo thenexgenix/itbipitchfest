@@ -5,7 +5,6 @@ import Link from "next/link";
 export default function Hero() {
   return (
     <div className="relative w-full min-h-screen flex items-center justify-center overflow-hidden">
-
       {/* Background Video */}
       <div className="absolute inset-0 w-full h-full">
         <video
@@ -30,7 +29,6 @@ export default function Hero() {
 
       {/* Content */}
       <div className="relative z-10 w-full max-w-6xl mx-auto px-4 sm:px-6 lg:px-8 text-center">
-
         {/* Title */}
         <h1
           className="
@@ -42,9 +40,8 @@ export default function Hero() {
             xl:text-7xl
           "
         >
-          FROM IDEA TO INCUBATION{" "}
-          <br className="hidden sm:block" />
-           ITBI Student Startup Pitch Fest
+          FROM IDEA TO INCUBATION <br className="hidden sm:block" />
+          ITBI Student Startup Pitch Fest
         </h1>
 
         {/* Subtitle */}
@@ -74,7 +71,7 @@ export default function Hero() {
         >
           <div className="flex items-center gap-2 px-4 sm:px-5 py-2 rounded-full bg-purple-700/40 backdrop-blur-sm text-xs sm:text-sm text-white">
             <Calendar className="w-4 h-4 text-purple-300" />
-            <span>Friday, 15th May 2026</span>
+            <span>Friday, 19th June 2026</span>
           </div>
 
           <div className="flex items-center gap-2 px-4 sm:px-5 py-2 rounded-full bg-purple-700/40 backdrop-blur-sm text-xs sm:text-sm text-white">
@@ -85,10 +82,7 @@ export default function Hero() {
 
         {/* CTA */}
         <div className="mt-8 sm:mt-10 flex flex-col items-center gap-4">
-
-          <Link
-            href="/registration"
-          >
+          <Link href="/registration">
             <button
               className="
                 text-white
@@ -110,7 +104,6 @@ export default function Hero() {
           <div className="px-5 sm:px-6 py-1.5 rounded-full border border-purple-300 text-purple-200 text-xs sm:text-sm bg-purple-900/30">
             Duration: 9:30 AM to 5:00 PM
           </div>
-
         </div>
       </div>
     </div>

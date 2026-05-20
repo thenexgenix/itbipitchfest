@@ -2,13 +2,21 @@
 
 import EventForm from "@/components/modules/events/registration/EventForm";
 import Link from "next/link";
-import { ArrowLeft, CalendarDays, MapPin, Clock, Mail, Phone, HelpCircle } from "lucide-react";
+import {
+  ArrowLeft,
+  CalendarDays,
+  MapPin,
+  Clock,
+  Mail,
+  Phone,
+  HelpCircle,
+} from "lucide-react";
 
 const INNOVATION_WORKSHOP_EVENT = {
   title: "FROM IDEA TO INCUBATION ITBI Student Startup Pitch Fest",
   description:
     "Get Expert Feedback, Win Free Incubation Space, Transform Your Startup Idea into Reality with ITBI & Pathway Venture",
-  date: "May 15th, 2026",
+  date: "June 19th, 2026",
   location: "Auditorium, ITBI, CUET, Chittagong",
   time: "9:30 AM – 5:00 PM",
 };
@@ -17,7 +25,6 @@ export default function InnovationWorkshopRegistrationPage() {
   return (
     <div className="min-h-screen bg-gray-50 py-10 px-4">
       <div className="max-w-4xl mx-auto space-y-6">
-
         {/* Event Header */}
         <div className="bg-white rounded-2xl shadow-sm border border-gray-200 p-6 md:p-8">
           <Link
@@ -54,7 +61,9 @@ export default function InnovationWorkshopRegistrationPage() {
         {/* Registration Form */}
         <div className="bg-white rounded-2xl shadow-sm border border-gray-200 overflow-hidden">
           <div className="border-b border-gray-100 px-6 py-5 md:px-8">
-            <h2 className="text-xl md:text-2xl font-bold text-gray-900">Register Your Team</h2>
+            <h2 className="text-xl md:text-2xl font-bold text-gray-900">
+              Register Your Team
+            </h2>
             <p className="text-gray-500 text-sm mt-1">
               Fill out the form below to register your team for the event.
             </p>
@@ -71,7 +80,8 @@ export default function InnovationWorkshopRegistrationPage() {
             <h3 className="font-bold text-gray-900">Need Help?</h3>
           </div>
           <p className="text-gray-500 text-sm mb-4">
-            If you have any questions about the registration process or the event, feel free to reach out.
+            If you have any questions about the registration process or the
+            event, feel free to reach out.
           </p>
           <div className="flex flex-col sm:flex-row gap-3">
             {/* <a
@@ -97,7 +107,6 @@ export default function InnovationWorkshopRegistrationPage() {
             </a>
           </div>
         </div>
-
       </div>
     </div>
   );

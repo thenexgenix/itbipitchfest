@@ -9,7 +9,7 @@ const INNOVATION_WORKSHOP_EVENT = {
   title: "FROM IDEA TO INCUBATION ITBI Student Startup Pitch Fest",
   description:
     "Get Expert Feedback, Win Free Incubation Space, Transform Your Startup Idea into Reality with ITBI & Pathway Venture",
-  date: "May, 15th, 2026",
+  date: "June, 19th, 2026",
   location: "Auditorium, ITBI, CUET, Chittagong",
   duration: "9:30 AM - 5:00 PM",
 };
@@ -51,7 +51,9 @@ export default function InnovationWorkshopRegistrationPage() {
         {/* Registration Form Section */}
         <div className="bg-white rounded-lg shadow-sm">
           <div className="border-b border-gray-200 p-6 md:p-8">
-            <h2 className="text-2xl font-bold text-gray-900">Register Your Team</h2>
+            <h2 className="text-2xl font-bold text-gray-900">
+              Register Your Team
+            </h2>
             <p className="text-gray-600 mt-2">
               Fill out the form below to register your team for the Event
             </p>
@@ -66,12 +68,15 @@ export default function InnovationWorkshopRegistrationPage() {
         <div className="mt-8 bg-blue-50 rounded-lg p-6 border border-blue-200">
           <h3 className="font-semibold text-blue-900 mb-3">Need Help?</h3>
           <p className="text-blue-800 text-sm">
-            If you have any questions about the registration process or the Innovation Workshop,
-            please contact us at{" "}
-            <a href="mailto:aspireinternshiprogram.pda@gmail.com" className="font-medium underline">
+            If you have any questions about the registration process or the
+            Innovation Workshop, please contact us at{" "}
+            <a
+              href="mailto:aspireinternshiprogram.pda@gmail.com"
+              className="font-medium underline"
+            >
               aspireinternshiprogram.pda@gmail.com
-            </a>
-            {" "}or call{" "}
+            </a>{" "}
+            or call{" "}
             <a href="tel:+8801973227349" className="font-medium underline">
               +880 1973-227349
             </a>
