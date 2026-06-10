@@ -55,7 +55,7 @@ export default function InnovationPartner() {
                   className="h-16 sm:h-20 w-auto object-contain"
                 />
                 <img
-                  src="/logos/UCClogo.svg"
+                  src="/logos/ucclogo.png"
                   alt="United Contstruction Company"
                   className="h-16 sm:h-20 w-auto object-contain"
                 />
