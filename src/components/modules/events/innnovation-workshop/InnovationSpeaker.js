@@ -13,10 +13,11 @@ export default function InnovationSpeaker() {
       image: "/guests/guest1.png",
     },
     {
-      name: "Professor Dr. M. Moshiul Hoque",
+      name: "Prof. Dr. M. Moshiul Hoque",
       roles: [
         "Director, IT Business Incubator, CUET",
         "Chair, IEEE Bangladesh Section",
+        "Director (IICT), CUET",
       ],
       image: "/guests/guest2.png",
     },
@@ -26,8 +27,11 @@ export default function InnovationSpeaker() {
       image: "/guests/guest3.png",
     },
     {
-      name: "Md. Monjur Ul Hasan, PhD",
-      roles: ["Associate Professor (CSE)", "Associate Director (IICT)"],
+      name: "Prof. Dr. Md. Monjur Ul Hasan",
+      roles: [
+        "Associate Professor (CSE), CUET",
+        "Associate Director (IICT), CUET",
+      ],
       image: "/guests/guest4.png",
     },
     {
@@ -38,17 +42,11 @@ export default function InnovationSpeaker() {
       ],
       image: "/guests/guest5.png",
     },
-    {
-      name: "Arafatul Islam Akib",
-      roles: ["Founder, Startup Chattogram", "Ecosystem & Venture Operator"],
-      image: "/guests/guest6.png",
-    },
   ];
 
   return (
     <section className="w-full bg-[#32094C] py-16 md:py-24">
       <div className="max-w-6xl mx-auto px-4">
-        {/* Header */}
         <div className="text-center mb-16">
           <h2 className="text-4xl md:text-5xl font-semibold text-[#E6C2FF] mb-3">
             Meet Our Speakers
@@ -58,12 +56,12 @@ export default function InnovationSpeaker() {
           </p>
         </div>
 
-        {/* Main Grid */}
-        <div className="grid grid-cols-1 sm:grid-cols-2 lg:grid-cols-3 gap-8">
+        <div className="flex flex-wrap justify-center gap-8">
           {speakers.map((speaker, index) => (
             <div
               key={index}
               className="
+                w-full sm:w-[calc(50%-1rem)] lg:w-[calc(33.33%-22px)]
                 flex flex-col items-center text-center
                 rounded-2xl
                 border border-[#9d4edd]/50
@@ -72,7 +70,6 @@ export default function InnovationSpeaker() {
                 hover:bg-[#3A0F5C] transition-colors duration-300
               "
             >
-              {/* Speaker Avatar */}
               <div className="mb-5">
                 <img
                   src={speaker.image}
@@ -81,17 +78,15 @@ export default function InnovationSpeaker() {
                 />
               </div>
 
-              {/* Speaker Info */}
               <h3 className="text-lg md:text-lg font-semibold text-white mb-2">
                 {speaker.name}
               </h3>
 
-              {/* Roles Mapping */}
               <div className="flex flex-col gap-1 w-full">
                 {speaker.roles.map((role, roleIndex) => (
                   <p
                     key={roleIndex}
-                    className="text-xs text-gray-300 leading-relaxed"
+                    className="text-sm text-gray-300 leading-relaxed"
                   >
                     {role}
                   </p>
