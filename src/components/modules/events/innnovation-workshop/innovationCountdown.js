@@ -68,6 +68,12 @@ const InnovationCountdown = () => {
     return null;
   }
 
+  const isTimeUp =
+    timeLeft.days === 0 &&
+    timeLeft.hours === 0 &&
+    timeLeft.minutes === 0 &&
+    timeLeft.seconds === 0;
+
   return (
     <section className="w-full flex justify-center items-center pt-16 bg-[#32094C]">
       <div
@@ -86,8 +92,10 @@ const InnovationCountdown = () => {
           text-center
         "
       >
-        <h3 className="text-white text-lg sm:text-xl md:text-2xl font-semibold tracking-wide mb-8">
-          JOIN US FOR OUR UPCOMING EVENT!
+        <h3 className="text-white text-lg sm:text-xl md:text-2xl font-semibold tracking-wide mb-8 uppercase">
+          {isTimeUp
+            ? "Thank you for participating!"
+            : "Join us for our upcoming event!"}
         </h3>
 
         <div className="flex justify-center gap-3 sm:gap-4 md:gap-6">

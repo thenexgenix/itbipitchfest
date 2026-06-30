@@ -84,6 +84,7 @@ export default function Hero() {
         <div className="mt-8 sm:mt-10 flex flex-col items-center gap-4">
           <Link href="/registration">
             <button
+              disabled
               className="
                 text-white
                 text-sm sm:text-base
@@ -94,9 +95,11 @@ export default function Hero() {
                 shadow-[0_0_20px_rgba(195,105,255,0.5)]
                 transition-all duration-300
                 hover:shadow-none
+                cursor-not-allowed
+                
               "
             >
-              Register Now
+              Concluded
             </button>
           </Link>
 
