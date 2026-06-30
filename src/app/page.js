@@ -12,12 +12,14 @@ import InnovationPartner from "@/components/modules/events/innnovation-workshop/
 import InnovationRegistration from "@/components/modules/events/innnovation-workshop/InnovationRegistration";
 import InnovationWhatYouWillGain from "@/components/modules/events/innnovation-workshop/InnovationWhatYouWillGain";
 import InnovationWhoShouldAttend from "@/components/modules/events/innnovation-workshop/InnovationWhoShouldAttend";
+import InnovationPastEvent from "@/components/modules/events/innnovation-workshop/innovationPastEvents";
 
 export default function Home() {
   return (
     <main>
       <Hero />
       <InnovationCountdown />
+      <InnovationPastEvent />
       <InnovationAbout />
       <InnovationOrganizer />
       <InnovationPartner />
